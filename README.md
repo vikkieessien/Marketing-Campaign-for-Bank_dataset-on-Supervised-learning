@@ -1,6 +1,6 @@
 # Marketing-Campaign-for-Bank_dataset-on-Supervised-learning
 
-# The data set is from Kaggle.
+* The data set is from Kaggle.
 * A clean data set that had no missing value.
 
 * The dataset is about a bank's marketing campaign that offers clients a term deposit in the bank. The company approched it's clients mostly by telephone and a * target variable was assigned according to the client's answer: 'yes' if they want to make the investment and 'no' otherwise.
